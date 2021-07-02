@@ -1,0 +1,2 @@
+# setup-android-studio
+AndroidStudioの環境構築から推奨設定などのTipsをまとめた資料の置き場
